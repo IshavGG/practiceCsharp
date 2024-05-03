@@ -12,3 +12,4 @@ C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\refint\tempProj.dll
 C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.pdb
 C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.genruntimeconfig.cache
 C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\ref\tempProj.dll
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.sourcelink.json

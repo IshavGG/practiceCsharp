@@ -1,0 +1,14 @@
+C:\Users\ishav_gupta\tempProj\bin\Debug\net8.0\tempProj.exe
+C:\Users\ishav_gupta\tempProj\bin\Debug\net8.0\tempProj.deps.json
+C:\Users\ishav_gupta\tempProj\bin\Debug\net8.0\tempProj.runtimeconfig.json
+C:\Users\ishav_gupta\tempProj\bin\Debug\net8.0\tempProj.dll
+C:\Users\ishav_gupta\tempProj\bin\Debug\net8.0\tempProj.pdb
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.AssemblyInfoInputs.cache
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.AssemblyInfo.cs
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.csproj.CoreCompileInputs.cache
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.dll
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\refint\tempProj.dll
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.pdb
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\tempProj.genruntimeconfig.cache
+C:\Users\ishav_gupta\tempProj\obj\Debug\net8.0\ref\tempProj.dll
